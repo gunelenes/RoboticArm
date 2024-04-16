@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "dgSpecHash": "QQ4lWbRzCn0XpW43MpbbnMC2xjCfGwyS04PpjR+t7pZzKrrDD7ZAjyDOcZ4WR1FPp83s7tgu81jS4fqXR8GZgg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\Robotic_Arm\\Robotic_Arm.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Microsoft.WindowsDesktop.App.Ref paketi bulunamıyor. Kaynaklarda bu kimliğe sahip paket yok: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.WindowsDesktop.App.Ref",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Microsoft.NETCore.App.Ref paketi bulunamıyor. Kaynaklarda bu kimliğe sahip paket yok: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.NETCore.App.Ref",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Microsoft.AspNetCore.App.Ref paketi bulunamıyor. Kaynaklarda bu kimliğe sahip paket yok: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.AspNetCore.App.Ref",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Microsoft.NETCore.App.Host.win-x64 paketi bulunamıyor. Kaynaklarda bu kimliğe sahip paket yok: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.NETCore.App.Host.win-x64",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    }
+  ]
+}

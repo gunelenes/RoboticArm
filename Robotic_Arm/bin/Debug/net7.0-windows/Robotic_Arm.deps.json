@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Robotic_Arm/1.0.0": {
+        "runtime": {
+          "Robotic_Arm.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Robotic_Arm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\Ekin\Desktop\dokuz eylul\3_yy\ETE 3007_Robotics\Robotic_Arm\bin\Debug\net7.0-windows\Robotic_Arm.exe
+C:\Users\Ekin\Desktop\dokuz eylul\3_yy\ETE 3007_Robotics\Robotic_Arm\bin\Debug\net7.0-windows\Robotic_Arm.deps.json
+C:\Users\Ekin\Desktop\dokuz eylul\3_yy\ETE 3007_Robotics\Robotic_Arm\bin\Debug\net7.0-windows\Robotic_Arm.runtimeconfig.json
+C:\Users\Ekin\Desktop\dokuz eylul\3_yy\ETE 3007_Robotics\Robotic_Arm\bin\Debug\net7.0-windows\Robotic_Arm.dll
+C:\Users\Ekin\Desktop\dokuz eylul\3_yy\ETE 3007_Robotics\Robotic_Arm\bin\Debug\net7.0-windows\Robotic_Arm.pdb
+C:\Users\Ekin\Desktop\dokuz eylul\3_yy\ETE 3007_Robotics\Robotic_Arm\obj\Debug\net7.0-windows\Robotic_Arm.Form1.resources
+C:\Users\Ekin\Desktop\dokuz eylul\3_yy\ETE 3007_Robotics\Robotic_Arm\obj\Debug\net7.0-windows\Robotic_Arm.csproj.GenerateResource.cache
+C:\Users\Ekin\Desktop\dokuz eylul\3_yy\ETE 3007_Robotics\Robotic_Arm\obj\Debug\net7.0-windows\Robotic_Arm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ekin\Desktop\dokuz eylul\3_yy\ETE 3007_Robotics\Robotic_Arm\obj\Debug\net7.0-windows\Robotic_Arm.AssemblyInfoInputs.cache
+C:\Users\Ekin\Desktop\dokuz eylul\3_yy\ETE 3007_Robotics\Robotic_Arm\obj\Debug\net7.0-windows\Robotic_Arm.AssemblyInfo.cs
+C:\Users\Ekin\Desktop\dokuz eylul\3_yy\ETE 3007_Robotics\Robotic_Arm\obj\Debug\net7.0-windows\Robotic_Arm.csproj.CoreCompileInputs.cache
+C:\Users\Ekin\Desktop\dokuz eylul\3_yy\ETE 3007_Robotics\Robotic_Arm\obj\Debug\net7.0-windows\Robotic_Arm.dll
+C:\Users\Ekin\Desktop\dokuz eylul\3_yy\ETE 3007_Robotics\Robotic_Arm\obj\Debug\net7.0-windows\refint\Robotic_Arm.dll
+C:\Users\Ekin\Desktop\dokuz eylul\3_yy\ETE 3007_Robotics\Robotic_Arm\obj\Debug\net7.0-windows\Robotic_Arm.pdb
+C:\Users\Ekin\Desktop\dokuz eylul\3_yy\ETE 3007_Robotics\Robotic_Arm\obj\Debug\net7.0-windows\Robotic_Arm.genruntimeconfig.cache
+C:\Users\Ekin\Desktop\dokuz eylul\3_yy\ETE 3007_Robotics\Robotic_Arm\obj\Debug\net7.0-windows\ref\Robotic_Arm.dll
